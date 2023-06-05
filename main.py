@@ -3,6 +3,8 @@ w której będą tylko unikalne wartości.
 przyklad = ["aaa", "bbb", "aaa", "ccc", "ddd", "aaa", "bbb", "ccc", "ddd", "eee"]"""
 
 not_unique_list = ["aaa", "bbb", "aaa", "ccc", "ddd", "aaa", "bbb", "ccc", "ddd", "eee"]
+print(not_unique_list)
+print(print(100 * "-"))
 
 unique_list = []
 for u in not_unique_list:
